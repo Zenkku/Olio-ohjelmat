@@ -1,7 +1,0 @@
-C:/Koulu/Oliopalautukset/Olio-ohjelmat/build-Viikkotehvat2_1olioarvauspeli-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/Viikkotehvat2_1olioarvauspeli.dir
-C:/Koulu/Oliopalautukset/Olio-ohjelmat/build-Viikkotehvat2_1olioarvauspeli-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Koulu/Oliopalautukset/Olio-ohjelmat/build-Viikkotehvat2_1olioarvauspeli-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Koulu/Oliopalautukset/Olio-ohjelmat/build-Viikkotehvat2_1olioarvauspeli-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Koulu/Oliopalautukset/Olio-ohjelmat/build-Viikkotehvat2_1olioarvauspeli-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/Koulu/Oliopalautukset/Olio-ohjelmat/build-Viikkotehvat2_1olioarvauspeli-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Koulu/Oliopalautukset/Olio-ohjelmat/build-Viikkotehvat2_1olioarvauspeli-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
