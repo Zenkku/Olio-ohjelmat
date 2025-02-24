@@ -20,7 +20,7 @@ public:
     string getName() const;
     void setName(const string &newName);
 
-    void printStudentinfo();
+    void printStudentinfo() const;
 
 private:
     string Name;

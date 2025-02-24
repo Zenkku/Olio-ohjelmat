@@ -2,9 +2,10 @@
 
 
 
-Student::Student(string Name, int Age)
+
+Student::Student(string Name, int Age) : Name(Name), Age(Age)
 {
-    cout << "Oppillaan nimi" << Name << "ika" << Age << endl;
+    cout << "Oppillaan nimi: " << Name << "ika: " << Age << endl;
 }
 
 int Student::getAge() const
@@ -27,7 +28,7 @@ void Student::setName(const string &newName)
     Name = newName;
 }
 
-void Student::printStudentinfo()
+void Student::printStudentinfo() const
 {
     cout << "Nimi: " << Name << ", Ikä: " << Age << endl;
 }

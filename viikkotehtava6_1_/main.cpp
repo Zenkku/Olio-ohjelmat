@@ -48,7 +48,7 @@ int main ()
             // nimet.
 
             cout << "opiskelijoiden nimet: " ;
-            for (Student s: studentList){
+            for (Student &s: studentList){
                 cout << s.getName() << " ";
             }
             cout << endl;
